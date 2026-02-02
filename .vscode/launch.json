@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cyclicSort",
+            "request": "launch",
+            "mainClass": "src.Sorting.cyclicSort",
+            "projectName": "#1.DSA-JAVA_63d252e4"
+        },
+        {
+            "type": "java",
             "name": "RemoveDuplicate",
             "request": "launch",
             "mainClass": "src.RemoveDuplicate",
