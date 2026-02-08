@@ -1,0 +1,11 @@
+String Formatting Placeholders
+Used with String.format() or System.out.printf():
+
+%s – for String values
+%d – for int (decimal) values
+%f – for float or double values
+%.2f – for floating-point numbers with 2 decimal places
+%tF – for date in ISO-8601 format (e.g., 2026-02-08)
+%tR – for 24-hour time (e.g., 14:30)
+%tr – for 12-hour time with AM/PM (e.g., 2:30 PM)
+%% – to insert a literal percent symbol (escaped) 
