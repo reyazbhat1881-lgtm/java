@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrettyPrinting",
+            "request": "launch",
+            "mainClass": "src.Strings.PrettyPrinting",
+            "projectName": "#1.DSA-JAVA_63d252e4"
+        },
+        {
+            "type": "java",
             "name": "output",
             "request": "launch",
             "mainClass": "src.Strings.output",
