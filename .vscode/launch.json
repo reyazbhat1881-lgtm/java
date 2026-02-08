@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "src.Strings.methods",
+            "projectName": "#1.DSA-JAVA_63d252e4"
+        },
+        {
+            "type": "java",
             "name": "sb",
             "request": "launch",
             "mainClass": "src.Strings.sb",
