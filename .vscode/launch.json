@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "operators",
+            "request": "launch",
+            "mainClass": "src.Strings.operators",
+            "projectName": "#1.DSA-JAVA_63d252e4"
+        },
+        {
+            "type": "java",
             "name": "PrettyPrinting",
             "request": "launch",
             "mainClass": "src.Strings.PrettyPrinting",
