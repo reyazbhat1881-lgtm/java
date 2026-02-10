@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "patternone",
+            "request": "launch",
+            "mainClass": "src.PatternQuestions.patternone",
+            "projectName": "#1.DSA-JAVA_63d252e4"
+        },
+        {
+            "type": "java",
             "name": "palindrome",
             "request": "launch",
             "mainClass": "src.Strings.palindrome",
